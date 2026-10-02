@@ -1,0 +1,5 @@
+post_id	username	interest	title	likes
+4	devon	Technology	SQL study group	20
+7	gray	Technology	Python workshop	18
+1	avery	Science	Astronomy night	12
+9	indigo	Science	Research poster tips	11
